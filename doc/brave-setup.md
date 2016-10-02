@@ -32,5 +32,9 @@ by bootstrapping from the point where something went wrong.
   /vagrant/setup/05-run.sh
   ```
 
+## Use the system
+
+To use the system you need to access the URL `http://192.168.50.10:8000/`
+
 Next:
 * [Read the original documentation](https://github.com/freedomsponsors/www.freedomsponsors.org/blob/master/doc)
