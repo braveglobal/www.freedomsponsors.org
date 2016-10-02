@@ -32,3 +32,10 @@ ENV
 Include
 Scripts
 node_modules
+
+ubuntu-xenial-16.04-cloudimg-console.log
+.vagrant
+.venv
+lib64
+pip-selfcheck.json
+selenium
