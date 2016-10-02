@@ -1,4 +1,4 @@
 #!/bin/bash
 
-python ../bootstrap
+python /vagrant/bootstrap
 rm distribute-*.tar.gz
