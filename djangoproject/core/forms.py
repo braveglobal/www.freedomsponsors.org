@@ -33,7 +33,8 @@ class RegistrationForm(_RegistrationForm):
 
 
 class MyRegForm(RegistrationFormUniqueEmail):
-    captcha = ReCaptchaField()
+    pass
+    #captcha = ReCaptchaField()
 
 
 class FrespoPasswordResetForm(PasswordResetForm):
