@@ -36,5 +36,13 @@ by bootstrapping from the point where something went wrong.
 
 To use the system you need to access the URL `http://192.168.50.10:8000/`
 
+## Registering a user
+
+To register a user follow the normal flow and when you are done and says an
+emails has been sent. Then switch to the console and check the email that should
+have been sent on the console and copy the verification URL and paste it on the
+browser to confirm the email address. After this, it is possible to create new
+issues.
+
 Next:
 * [Read the original documentation](https://github.com/freedomsponsors/www.freedomsponsors.org/blob/master/doc)
